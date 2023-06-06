@@ -1,0 +1,1 @@
+#recordatorio subir todo esto dentro de github
